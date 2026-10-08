@@ -1,0 +1,7 @@
+url: https://github.com/wuanthony397-hash/dsh-codex-peer
+name: wuanthony397-hash/dsh-codex-peer
+category: agi
+tarball: https://github.com/wuanthony397-hash/dsh-codex-peer/releases/download/v0.2.1/dsh-codex-peer-0.2.1.tgz
+description:
+  en: 'Runs the local Codex CLI as a peer agent: split a goal into a shared work list, hand a task over, review what comes back, and keep every prompt, event stream, and answer on disk.'
+  zh: '把本机 Codex CLI 当作对等 agent：把目标拆成共享工作清单、派活与交接、互相审查，并把每一步的提示词、事件流与回答留档在本地。'
